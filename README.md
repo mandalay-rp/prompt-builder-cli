@@ -2,6 +2,8 @@
 
 [🇷🇺 Русский](#-русский) · [🇬🇧 English](#-english)
 
+[Альтернативный вариант генератора](https://github.com/mandalay-rp/ai-prompt-generator)
+
 ---
 
 ## 🇷🇺 Русский
@@ -177,6 +179,8 @@ MIT.
 ---
 
 ## 🇬🇧 English
+
+[Alternative generator](https://github.com/mandalay-rp/ai-prompt-generator)
 
 An interactive bash script that builds prompts using the **RCT** and **COSTAR**
 frameworks. It walks you through each field with a hint and an example of the
